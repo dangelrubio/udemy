@@ -1,0 +1,4 @@
+<?php
+    //Variables
+    //Includes
+    //Hooks
