@@ -24,7 +24,7 @@
             "link": true,
             "background": true,
             "text": true,
-            "custom": false,
+            "custom": true,
             "duotone": [
                 {
                     "slug": "u-pink-sunset", "colors": ["#11245e", "#dc4379"], "name": "Udemy Pink Sunset"
@@ -91,7 +91,8 @@
                 { "slug": "large", "size": "2.25rem", "name": "Large"},
                 { "slug": "x-large", "size": "3rem", "name": "Extra Large"},
                 { "slug": "gigantic", "size": "3.75rem", "name": "Gigantic"}
-            ]
+            ],
+            "lineHeight": true
         },
         "layout": {
             "contentSize": "800px",
